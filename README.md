@@ -61,11 +61,6 @@ Le projet utilise JUnit 5 pour tester la méthode `exist` dans divers cas :
    mvn test
    ```
 
-## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
 
----
 
-*Note : N'oubliez pas de remplacer les sections entre crochets par les informations spécifiques à votre projet, telles que le nom du paquetage.*
-``` 
